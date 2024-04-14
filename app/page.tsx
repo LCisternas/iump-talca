@@ -125,6 +125,7 @@ export default function Home() {
             <p className="text-white font-extralight lg:text-xl lg:font-normal">Jueves: 18:00 horas</p>
             <p className="text-white font-extralight lg:text-xl lg:font-normal">Domingo: 10:30 horas - Escuela dominical</p>
             <p className="text-white font-extralight lg:text-xl lg:font-normal">Domingo: 18:00 horas - Servicio principal</p>
+            <p className="text-white font-extralight lg:text-xl lg:font-normal">Talca - 8 oriente #412</p>
           </div>
         </section>
 
