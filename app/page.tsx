@@ -57,7 +57,7 @@ export default function Home() {
 
         </nav>
 
-        <section className="absolute top-1/2 left-20 -translate-y-1/2">
+        <section className="absolute top-1/2 left-6 lg:left-20 -translate-y-1/2">
           <h1 className="text-white text-4xl md:text-6xl font-medium">
             Bienvenido a
             <br />
@@ -67,7 +67,7 @@ export default function Home() {
 
       </section>
 
-      <section className="px-80 py-8">
+      <section className="px-6 lg:px-80 py-8">
         <h3 className="text-2xl font-light leading-9">
           La Iglesia Unida Metodista Pentecostal esta dedicada a cumplir con la gran comision encomendada por nuestro Señor Jesucristo llevar el evangelio a toda criatura.
         </h3>
