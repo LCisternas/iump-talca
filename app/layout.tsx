@@ -8,14 +8,14 @@ const poppins = Poppins({ weight: ["100", "200", "300", "400", "500", "600", "70
 export const metadata: Metadata = {
   title: "IUMP TALCA",
   description: "Iglesia unida metodista pentecostal primera de talca",
-  icons: {
-    icon: [
-      {
-        url: '/favicon.ico',
-        href: '/favicon.ico',
-      },
-    ],
-  },
+  // icons: {
+  //   icon: [
+  //     {
+  //       url: '/favicon.ico',
+  //       href: '/favicon.ico',
+  //     },
+  //   ],
+  // },
 }
 
 export default function RootLayout({
