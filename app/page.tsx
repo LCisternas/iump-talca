@@ -113,7 +113,7 @@ export default function Home() {
 
         <section className="absolute top-[40%] right-6 lg:right-1/2 lg:translate-x-1/2 -translate-y-1/2">
           <h1 className="text-white text-4xl font-medium text-center">
-            ¡Unetenos en {""}
+            ¡Únetenos en {""}
             <br className="lg:hidden" />
             adoración!
             <br />
