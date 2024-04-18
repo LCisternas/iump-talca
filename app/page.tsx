@@ -17,7 +17,7 @@ import { AlignJustify } from "lucide-react";
 
 export default function Home() {
   return (
-    <main className="">
+    <main>
 
       <section className='p-0 flex flex-col items-center relative'>
         <Image
@@ -121,8 +121,8 @@ export default function Home() {
         </section>
         <section className="absolute top-[70%] left-6 -translate-y-3/4 lg:left-[700px] lg:-translate-x-1/2">
           <div className="flex flex-col space-y-1">
-            <p className="text-white font-extralight lg:text-xl lg:font-normal">Martes: 18:00 horas</p>
-            <p className="text-white font-extralight lg:text-xl lg:font-normal">Jueves: 18:00 horas</p>
+            <p className="text-white font-extralight lg:text-xl lg:font-normal">Martes: 20:00 horas</p>
+            <p className="text-white font-extralight lg:text-xl lg:font-normal">Jueves: 20:00 horas</p>
             <p className="text-white font-extralight lg:text-xl lg:font-normal">Domingo: 10:30 horas - Escuela dominical</p>
             <p className="text-white font-extralight lg:text-xl lg:font-normal">Domingo: 18:00 horas - Servicio principal</p>
             <p className="text-white font-extralight lg:text-xl lg:font-normal">Talca - 8 oriente #412</p>
